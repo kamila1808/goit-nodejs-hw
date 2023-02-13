@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamila1808/joit-nodejs-hw.git"
+    "url": "git+https://github.com/kamila1808/goit-nodejs-hw.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kamila1808/joit-nodejs-hw/issues"
+    "url": "https://github.com/kamila1808/goit-nodejs-hw/issues"
   },
-  "homepage": "https://github.com/kamila1808/joit-nodejs-hw#readme",
+  "homepage": "https://github.com/kamila1808/goit-nodejs-hw#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
