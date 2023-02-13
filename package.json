@@ -1,0 +1,24 @@
+{
+  "name": "node-hw01",
+  "version": "1.0.0",
+  "description": "homework 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "start:dev":  "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamila1808/joit-nodejs-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamila1808/joit-nodejs-hw/issues"
+  },
+  "homepage": "https://github.com/kamila1808/joit-nodejs-hw#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
