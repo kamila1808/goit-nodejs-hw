@@ -1,7 +1,4 @@
-// const fs = require("fs");
-// const path = require("path");
-
-const contacts = require("./contacts.js")
+const contacts = require("./contacts")
 
 const { Command } = require("commander");
 const program = new Command();
